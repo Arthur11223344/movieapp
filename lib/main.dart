@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: "App Movie",
       theme: ThemeData(
-        primaryColor: Colors.green,
+        primaryColor: Colors.yellow,
         textTheme: GoogleFonts.manropeTextTheme(),
 
       ),
